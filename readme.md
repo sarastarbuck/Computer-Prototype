@@ -15,3 +15,4 @@ Action Steps:
 -user clicks next Question button
 -repeat until quiz is complete
 
+Given more time, I would have liked to fix a small bug in the interface. At the end of the quiz, the image of the last question is still visible. I would prefer if only the score was on that screen. 
